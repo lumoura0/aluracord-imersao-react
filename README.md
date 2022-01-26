@@ -1,8 +1,9 @@
 # aluracord !!!
 Projeto criado na imersão React com a @alura @omariosouto @peas
 
-
-<a href="https://imgur.com/BcMPs7r%22%3E" <img src="https://i.imgur.com/BcMPs7r.png%22/%3E"</a>
+<a href="https://imgur.com/BcMPs7r"><img src="https://i.imgur.com/BcMPs7r.png"/></a>
+<br><br>
+<a href="https://imgur.com/3mzYMHx"><img src="https://i.imgur.com/3mzYMHx.png"/></a>
 
 
 
